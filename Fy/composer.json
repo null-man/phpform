@@ -1,0 +1,20 @@
+{
+    "name": "null-man/phpform",
+    "description": "基于 thinkCMF 对象化生产表单 OR 表格",
+    "keywords": ["thinkcmf", "form", "table", "表单", "表格", "对象化", "快速"],
+    "authors": [
+        {
+            "name": "anonymous",
+            "email": "635384073@qq.com"
+        }
+    ],
+    "homepage":"https://github.com/null-man",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "nullMan\\phpform\\": "Fy"
+        }
+    }
+}
