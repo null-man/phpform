@@ -8,8 +8,7 @@
             "email": "635384073@qq.com"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
+    "minimum-stability": "dev-master",
     "license":"MIT",
     "autoload": {
         "psr-4": {
