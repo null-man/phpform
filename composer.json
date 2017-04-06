@@ -19,14 +19,14 @@
         }
     },
     "config": {
-    "github-protocols": [
-      "https"
-    ]
-  },
-  "repositories": {
-    "packagist": {
-      "type": "composer",
-      "url": "https://packagist.org"
-    }
+        "github-protocols": [
+          "https"
+        ]
+      },
+      "repositories": {
+        "packagist": {
+          "type": "composer",
+          "url": "https://packagist.org"
+        }
   }
 }
