@@ -8,7 +8,6 @@
             "email": "635384073@qq.com"
         }
     ],
-    "homepage":"https://github.com/null-man",
     "license":"MIT",
     "require": {
         "php": ">=5.3.3"
