@@ -17,16 +17,5 @@
         "psr-4": {
             "Fy\\": "Fy"
         }
-    },
-    "config": {
-        "github-protocols": [
-          "https"
-        ]
-      },
-      "repositories": {
-        "packagist": {
-          "type": "composer",
-          "url": "https://packagist.org"
-        }
-  }
+    }
 }
