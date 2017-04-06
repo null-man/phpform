@@ -1,5 +1,5 @@
 {
-    "name": "null-man/phpform",
+    "name": "phpform",
     "description": "基于 thinkCMF 对象化生产表单 OR 表格",
     "keywords": ["thinkcmf", "form", "table", "表单", "表格", "对象化", "快速"],
     "authors": [
@@ -8,7 +8,6 @@
             "email": "635384073@qq.com"
         }
     ],
-    "minimum-stability": "dev-master",
     "license":"MIT",
     "autoload": {
         "psr-4": {
